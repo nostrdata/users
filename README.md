@@ -17,8 +17,8 @@
 ---
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nostrdata/users/blob/gh-pages/LICENSE)
-[![npm](https://img.shields.io/npm/v/users)](https://npmjs.com/package/users)
-[![npm](https://img.shields.io/npm/dw/users.svg)](https://npmjs.com/package/users)
+[![npm](https://img.shields.io/npm/v/nostrdata-usersusers)](https://npmjs.com/package/nostrdata-users)
+[![npm](https://img.shields.io/npm/dw/nostrdata-users.svg)](https://npmjs.com/package/nostrdata-users)
 [![Github Stars](https://img.shields.io/github/stars/nostrdata/users.svg)](https://github.com/nostrdata/users/)
 
 ## Introduction
